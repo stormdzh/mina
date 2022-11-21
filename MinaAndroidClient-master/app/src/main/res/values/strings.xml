@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">MinaClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+
+    <string name="connect">开始连接</string>
+    <string name="send">发送消息</string>
+    <string name="showdate">展示数据</string>
+
+</resources>
